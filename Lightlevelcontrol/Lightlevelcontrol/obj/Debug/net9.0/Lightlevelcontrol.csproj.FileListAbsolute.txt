@@ -1,0 +1,14 @@
+D:\Agile\Lightlevelcontrol\Lightlevelcontrol\bin\Debug\net9.0\Lightlevelcontrol.exe
+D:\Agile\Lightlevelcontrol\Lightlevelcontrol\bin\Debug\net9.0\Lightlevelcontrol.deps.json
+D:\Agile\Lightlevelcontrol\Lightlevelcontrol\bin\Debug\net9.0\Lightlevelcontrol.runtimeconfig.json
+D:\Agile\Lightlevelcontrol\Lightlevelcontrol\bin\Debug\net9.0\Lightlevelcontrol.dll
+D:\Agile\Lightlevelcontrol\Lightlevelcontrol\bin\Debug\net9.0\Lightlevelcontrol.pdb
+D:\Agile\Lightlevelcontrol\Lightlevelcontrol\obj\Debug\net9.0\Lightlevelcontrol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agile\Lightlevelcontrol\Lightlevelcontrol\obj\Debug\net9.0\Lightlevelcontrol.AssemblyInfoInputs.cache
+D:\Agile\Lightlevelcontrol\Lightlevelcontrol\obj\Debug\net9.0\Lightlevelcontrol.AssemblyInfo.cs
+D:\Agile\Lightlevelcontrol\Lightlevelcontrol\obj\Debug\net9.0\Lightlevelcontrol.csproj.CoreCompileInputs.cache
+D:\Agile\Lightlevelcontrol\Lightlevelcontrol\obj\Debug\net9.0\Lightlevelcontrol.dll
+D:\Agile\Lightlevelcontrol\Lightlevelcontrol\obj\Debug\net9.0\refint\Lightlevelcontrol.dll
+D:\Agile\Lightlevelcontrol\Lightlevelcontrol\obj\Debug\net9.0\Lightlevelcontrol.pdb
+D:\Agile\Lightlevelcontrol\Lightlevelcontrol\obj\Debug\net9.0\Lightlevelcontrol.genruntimeconfig.cache
+D:\Agile\Lightlevelcontrol\Lightlevelcontrol\obj\Debug\net9.0\ref\Lightlevelcontrol.dll
