@@ -1,0 +1,14 @@
+D:\Agile\Recipebookandingredients\Recipebookandingredients\bin\Debug\net9.0\Recipebookandingredients.exe
+D:\Agile\Recipebookandingredients\Recipebookandingredients\bin\Debug\net9.0\Recipebookandingredients.deps.json
+D:\Agile\Recipebookandingredients\Recipebookandingredients\bin\Debug\net9.0\Recipebookandingredients.runtimeconfig.json
+D:\Agile\Recipebookandingredients\Recipebookandingredients\bin\Debug\net9.0\Recipebookandingredients.dll
+D:\Agile\Recipebookandingredients\Recipebookandingredients\bin\Debug\net9.0\Recipebookandingredients.pdb
+D:\Agile\Recipebookandingredients\Recipebookandingredients\obj\Debug\net9.0\Recipebookandingredients.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agile\Recipebookandingredients\Recipebookandingredients\obj\Debug\net9.0\Recipebookandingredients.AssemblyInfoInputs.cache
+D:\Agile\Recipebookandingredients\Recipebookandingredients\obj\Debug\net9.0\Recipebookandingredients.AssemblyInfo.cs
+D:\Agile\Recipebookandingredients\Recipebookandingredients\obj\Debug\net9.0\Recipebookandingredients.csproj.CoreCompileInputs.cache
+D:\Agile\Recipebookandingredients\Recipebookandingredients\obj\Debug\net9.0\Recipebookandingredients.dll
+D:\Agile\Recipebookandingredients\Recipebookandingredients\obj\Debug\net9.0\refint\Recipebookandingredients.dll
+D:\Agile\Recipebookandingredients\Recipebookandingredients\obj\Debug\net9.0\Recipebookandingredients.pdb
+D:\Agile\Recipebookandingredients\Recipebookandingredients\obj\Debug\net9.0\Recipebookandingredients.genruntimeconfig.cache
+D:\Agile\Recipebookandingredients\Recipebookandingredients\obj\Debug\net9.0\ref\Recipebookandingredients.dll
