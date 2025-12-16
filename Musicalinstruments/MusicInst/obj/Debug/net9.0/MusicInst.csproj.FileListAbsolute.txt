@@ -1,0 +1,14 @@
+D:\Agile\Musicalinstruments\MusicInst\bin\Debug\net9.0\MusicInst.exe
+D:\Agile\Musicalinstruments\MusicInst\bin\Debug\net9.0\MusicInst.deps.json
+D:\Agile\Musicalinstruments\MusicInst\bin\Debug\net9.0\MusicInst.runtimeconfig.json
+D:\Agile\Musicalinstruments\MusicInst\bin\Debug\net9.0\MusicInst.dll
+D:\Agile\Musicalinstruments\MusicInst\bin\Debug\net9.0\MusicInst.pdb
+D:\Agile\Musicalinstruments\MusicInst\obj\Debug\net9.0\MusicInst.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agile\Musicalinstruments\MusicInst\obj\Debug\net9.0\MusicInst.AssemblyInfoInputs.cache
+D:\Agile\Musicalinstruments\MusicInst\obj\Debug\net9.0\MusicInst.AssemblyInfo.cs
+D:\Agile\Musicalinstruments\MusicInst\obj\Debug\net9.0\MusicInst.csproj.CoreCompileInputs.cache
+D:\Agile\Musicalinstruments\MusicInst\obj\Debug\net9.0\MusicInst.dll
+D:\Agile\Musicalinstruments\MusicInst\obj\Debug\net9.0\refint\MusicInst.dll
+D:\Agile\Musicalinstruments\MusicInst\obj\Debug\net9.0\MusicInst.pdb
+D:\Agile\Musicalinstruments\MusicInst\obj\Debug\net9.0\MusicInst.genruntimeconfig.cache
+D:\Agile\Musicalinstruments\MusicInst\obj\Debug\net9.0\ref\MusicInst.dll
