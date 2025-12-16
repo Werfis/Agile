@@ -1,0 +1,14 @@
+D:\Agile\Notificationpriority\Notificationpriority\bin\Debug\net9.0\Notificationpriority.exe
+D:\Agile\Notificationpriority\Notificationpriority\bin\Debug\net9.0\Notificationpriority.deps.json
+D:\Agile\Notificationpriority\Notificationpriority\bin\Debug\net9.0\Notificationpriority.runtimeconfig.json
+D:\Agile\Notificationpriority\Notificationpriority\bin\Debug\net9.0\Notificationpriority.dll
+D:\Agile\Notificationpriority\Notificationpriority\bin\Debug\net9.0\Notificationpriority.pdb
+D:\Agile\Notificationpriority\Notificationpriority\obj\Debug\net9.0\Notificationpriority.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agile\Notificationpriority\Notificationpriority\obj\Debug\net9.0\Notificationpriority.AssemblyInfoInputs.cache
+D:\Agile\Notificationpriority\Notificationpriority\obj\Debug\net9.0\Notificationpriority.AssemblyInfo.cs
+D:\Agile\Notificationpriority\Notificationpriority\obj\Debug\net9.0\Notificationpriority.csproj.CoreCompileInputs.cache
+D:\Agile\Notificationpriority\Notificationpriority\obj\Debug\net9.0\Notificationpriority.dll
+D:\Agile\Notificationpriority\Notificationpriority\obj\Debug\net9.0\refint\Notificationpriority.dll
+D:\Agile\Notificationpriority\Notificationpriority\obj\Debug\net9.0\Notificationpriority.pdb
+D:\Agile\Notificationpriority\Notificationpriority\obj\Debug\net9.0\Notificationpriority.genruntimeconfig.cache
+D:\Agile\Notificationpriority\Notificationpriority\obj\Debug\net9.0\ref\Notificationpriority.dll
