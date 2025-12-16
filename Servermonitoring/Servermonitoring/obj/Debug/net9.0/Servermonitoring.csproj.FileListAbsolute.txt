@@ -1,0 +1,14 @@
+D:\Agile\Servermonitoring\Servermonitoring\bin\Debug\net9.0\Servermonitoring.exe
+D:\Agile\Servermonitoring\Servermonitoring\bin\Debug\net9.0\Servermonitoring.deps.json
+D:\Agile\Servermonitoring\Servermonitoring\bin\Debug\net9.0\Servermonitoring.runtimeconfig.json
+D:\Agile\Servermonitoring\Servermonitoring\bin\Debug\net9.0\Servermonitoring.dll
+D:\Agile\Servermonitoring\Servermonitoring\bin\Debug\net9.0\Servermonitoring.pdb
+D:\Agile\Servermonitoring\Servermonitoring\obj\Debug\net9.0\Servermonitoring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agile\Servermonitoring\Servermonitoring\obj\Debug\net9.0\Servermonitoring.AssemblyInfoInputs.cache
+D:\Agile\Servermonitoring\Servermonitoring\obj\Debug\net9.0\Servermonitoring.AssemblyInfo.cs
+D:\Agile\Servermonitoring\Servermonitoring\obj\Debug\net9.0\Servermonitoring.csproj.CoreCompileInputs.cache
+D:\Agile\Servermonitoring\Servermonitoring\obj\Debug\net9.0\Servermonitoring.dll
+D:\Agile\Servermonitoring\Servermonitoring\obj\Debug\net9.0\refint\Servermonitoring.dll
+D:\Agile\Servermonitoring\Servermonitoring\obj\Debug\net9.0\Servermonitoring.pdb
+D:\Agile\Servermonitoring\Servermonitoring\obj\Debug\net9.0\Servermonitoring.genruntimeconfig.cache
+D:\Agile\Servermonitoring\Servermonitoring\obj\Debug\net9.0\ref\Servermonitoring.dll
