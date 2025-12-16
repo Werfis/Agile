@@ -1,0 +1,14 @@
+D:\Agile\Restaurant\Restaurant\bin\Debug\net9.0\Restaurant.exe
+D:\Agile\Restaurant\Restaurant\bin\Debug\net9.0\Restaurant.deps.json
+D:\Agile\Restaurant\Restaurant\bin\Debug\net9.0\Restaurant.runtimeconfig.json
+D:\Agile\Restaurant\Restaurant\bin\Debug\net9.0\Restaurant.dll
+D:\Agile\Restaurant\Restaurant\bin\Debug\net9.0\Restaurant.pdb
+D:\Agile\Restaurant\Restaurant\obj\Debug\net9.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agile\Restaurant\Restaurant\obj\Debug\net9.0\Restaurant.AssemblyInfoInputs.cache
+D:\Agile\Restaurant\Restaurant\obj\Debug\net9.0\Restaurant.AssemblyInfo.cs
+D:\Agile\Restaurant\Restaurant\obj\Debug\net9.0\Restaurant.csproj.CoreCompileInputs.cache
+D:\Agile\Restaurant\Restaurant\obj\Debug\net9.0\Restaurant.dll
+D:\Agile\Restaurant\Restaurant\obj\Debug\net9.0\refint\Restaurant.dll
+D:\Agile\Restaurant\Restaurant\obj\Debug\net9.0\Restaurant.pdb
+D:\Agile\Restaurant\Restaurant\obj\Debug\net9.0\Restaurant.genruntimeconfig.cache
+D:\Agile\Restaurant\Restaurant\obj\Debug\net9.0\ref\Restaurant.dll
