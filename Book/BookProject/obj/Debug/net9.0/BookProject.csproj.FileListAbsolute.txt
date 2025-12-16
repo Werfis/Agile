@@ -1,0 +1,14 @@
+d:\Book\BookProject\bin\Debug\net9.0\BookProject.exe
+d:\Book\BookProject\bin\Debug\net9.0\BookProject.deps.json
+d:\Book\BookProject\bin\Debug\net9.0\BookProject.runtimeconfig.json
+d:\Book\BookProject\bin\Debug\net9.0\BookProject.dll
+d:\Book\BookProject\bin\Debug\net9.0\BookProject.pdb
+d:\Book\BookProject\obj\Debug\net9.0\BookProject.GeneratedMSBuildEditorConfig.editorconfig
+d:\Book\BookProject\obj\Debug\net9.0\BookProject.AssemblyInfoInputs.cache
+d:\Book\BookProject\obj\Debug\net9.0\BookProject.AssemblyInfo.cs
+d:\Book\BookProject\obj\Debug\net9.0\BookProject.csproj.CoreCompileInputs.cache
+d:\Book\BookProject\obj\Debug\net9.0\BookProject.dll
+d:\Book\BookProject\obj\Debug\net9.0\refint\BookProject.dll
+d:\Book\BookProject\obj\Debug\net9.0\BookProject.pdb
+d:\Book\BookProject\obj\Debug\net9.0\BookProject.genruntimeconfig.cache
+d:\Book\BookProject\obj\Debug\net9.0\ref\BookProject.dll
