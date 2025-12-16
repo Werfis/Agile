@@ -1,0 +1,14 @@
+D:\Agile\Documentsandprinting\Documents\bin\Debug\net9.0\Documents.exe
+D:\Agile\Documentsandprinting\Documents\bin\Debug\net9.0\Documents.deps.json
+D:\Agile\Documentsandprinting\Documents\bin\Debug\net9.0\Documents.runtimeconfig.json
+D:\Agile\Documentsandprinting\Documents\bin\Debug\net9.0\Documents.dll
+D:\Agile\Documentsandprinting\Documents\bin\Debug\net9.0\Documents.pdb
+D:\Agile\Documentsandprinting\Documents\obj\Debug\net9.0\Documents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agile\Documentsandprinting\Documents\obj\Debug\net9.0\Documents.AssemblyInfoInputs.cache
+D:\Agile\Documentsandprinting\Documents\obj\Debug\net9.0\Documents.AssemblyInfo.cs
+D:\Agile\Documentsandprinting\Documents\obj\Debug\net9.0\Documents.csproj.CoreCompileInputs.cache
+D:\Agile\Documentsandprinting\Documents\obj\Debug\net9.0\Documents.dll
+D:\Agile\Documentsandprinting\Documents\obj\Debug\net9.0\refint\Documents.dll
+D:\Agile\Documentsandprinting\Documents\obj\Debug\net9.0\Documents.pdb
+D:\Agile\Documentsandprinting\Documents\obj\Debug\net9.0\Documents.genruntimeconfig.cache
+D:\Agile\Documentsandprinting\Documents\obj\Debug\net9.0\ref\Documents.dll
