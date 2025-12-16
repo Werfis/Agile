@@ -1,0 +1,9 @@
+Book - 1
+Computer - 2
+Musicalinstruments - 3
+Documentsandprinting - 4
+Restaurant - 5
+Notificationpriority - 6
+Servermonitoring - 7
+Lightlevelcontrol - 8
+Recipebookandingredients - 9
